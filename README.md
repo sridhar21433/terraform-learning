@@ -2,8 +2,6 @@
 
 My first steps with **Terraform** — provisioning AWS infrastructure as code. This repo is a small practice project created while learning the basics of Infrastructure as Code (IaC).
 
-## What this project does
-
 The `main.tf` file creates:
 
 - **AWS Provider** configured for a chosen region
@@ -93,4 +91,3 @@ Terraform/
 
 ---
 
-Happy learning! 🚀
